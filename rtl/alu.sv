@@ -102,3 +102,6 @@ module alu_control (
     end
 
 endmodule
+
+//Note : Manual asked for 2 controllers however we basically combine both at one .and its working alright ,have added sim pic on doc/ as well
+//However if need 2 separate controllers , can separate in future THANKS !
